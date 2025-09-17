@@ -2,6 +2,7 @@
 ![OS](https://img.shields.io/ubuntu/v/ubuntu-wallpapers/noble)
 ![ROS_2](https://img.shields.io/ros/v/jazzy/rclcpp)
 
+![Mycobot280](assets/images/mycobot280.png)<br>
 
 
 With this project I expect to get a deeper understanding of the following concepts: <br>
